@@ -39,7 +39,7 @@ In this configuration task you will create the administrative group and add one 
 
 5. Click on **Add Group** from the task pane at the bottom of the page, in order to add a group to your directory.
 
-6. Create a group named **AAD DC Administrators**.
+6. Create a group named **AAD DC Administrators**. As a Group Type, select **Office 365 Preview**
 
     > [AZURE.WARNING] You must create a group with this exact name in order to enable access within Azure AD Domain Services.
 
